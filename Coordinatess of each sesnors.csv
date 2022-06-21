@@ -1,0 +1,41 @@
+﻿SN,NAME,ID,Lat,Lon,Elevation (m),Logger,Location,Installed by,Start Date,End Date,Interval (h),Status
+1,D1,A509BC,28.23446,85.62545,5457,GeoPrecision,Yala ridge,ICIMOD,10/5/2014,24/11/2018,1,Ongoing
+2,D4,A509B0,28.23336,85.62546,5499,GeoPrecision,Yala ridge,ICIMOD,10/5/2014,8/11/2018,1,Ongoing
+3,D5,A509B6,28.23333,85.62543,5500,GeoPrecision,Yala ridge,ICIMOD,10/5/2014,24/11/2018,1,Ongoing
+4,D7,A509BA,28.23518,85.62501,5518,GeoPrecision,Yala ridge,ICIMOD,10/5/2014,24/11/2018,1,Ongoing
+5,D8,A509B5,28.23519,85.62524,5518,GeoPrecision,Yala ridge,ICIMOD,10/5/2014,24/11/2018,1,Ongoing
+6,D10,A504EB,28.23678,85.62519,5533,GeoPrecision,Yala ridge,ICIMOD,10/5/2014,24/11/2018,NO Data,No Data
+7,D11,A509AF,28.23678,85.6248,5542,GeoPrecision,Yala ridge,ICIMOD,10/5/2014,24/11/2018,1,Ongoing
+8,D12,A509AC,28.23674,85.62479,5542,GeoPrecision,Yala ridge,ICIMOD,10/5/2014,24/11/2018,1,Ongoing
+9,R2,A5023E,28.233,85.62548,5490,GeoPrecision,Yala ridge,ICIMOD,10/5/2014,24/11/2018,NO Data,No Data
+10,R3,A504E1,28.23265,85.62555,5488,GeoPrecision,Yala ridge,ICIMOD,10/5/2014,24/11/2018,NO Data,No Data
+11,R6,A504F0,28.23517,85.62531,5518,GeoPrecision,Yala ridge,ICIMOD,10/5/2014,24/11/2018,1,Ongoing
+12,R9,A504EB,28.23679,85.62525,5533,GeoPrecision,Yala ridge,ICIMOD,10/5/2014,24/11/2018,1,Ongoing
+13,D16,A521C6,28.21641,85.62223,5052,GeoPrecision,Lower Yala Ridge,University of Zurich,20/10/2016,24/11/2018,1,Ongoing
+14,D17,A521C7,28.21634,85.62171,5041,GeoPrecision,Lower Yala Ridge,University of Zurich,20/10/2016,24/11/2018,1,Ongoing
+15,D19,A521C2,28.23255,85.61411,5158,GeoPrecision,Yala Terminus,University of Zurich,20/10/2016,24/11/2018,1,Ongoing
+16,D21,A521BD,28.21082,85.61779,4792,GeoPrecision,Rock Glacier,University of Zurich,20/10/2016,24/11/2018,1,Ongoing
+17,D22,A521BC,28.21161,85.61892,4841,GeoPrecision,Yala ridge,University of Zurich,20/10/2016,24/11/2018,1,Ongoing
+18,D23,A521C4,28.21379,85.62023,4892,GeoPrecision,Rock Glacier,University of Zurich,20/10/2016,24/11/2018,1,Ongoing
+19,D26,A521C1,28.20724,85.6142,4520,GeoPrecision,Rock Glacier,University of Zurich,20/10/2016,24/11/2018,1,Ongoing
+20,R13,A521D3,28.21439,85.62353,5070,GeoPrecision,Yala ridge,University of Zurich,20/10/2016,24/11/2018,1,Ongoing
+21,R14,A521D7,28.21643,85.62204,5084,GeoPrecision,Lower Yala Ridge,University of Zurich,20/10/2016,24/11/2018,1,Ongoing
+22,R15,A521D2,28.21639,85.622,5055,GeoPrecision,Lower Yala Ridge,University of Zurich,20/10/2016,24/11/2018,1,Ongoing
+23,R18,A521D5,28.23298,85.61395,5103,GeoPrecision,Yala Terminus,University of Zurich,20/10/2016,24/11/2018,1,Ongoing
+24,R20,A521CD,28.23254,85.61431,5157,GeoPrecision,Yala Terminus,University of Zurich,20/10/2016,24/11/2018,1,Ongoing
+25,R24,A521D4,28.23467,85.6254,5494,GeoPrecision,Yala Ridge,University of Zurich,20/10/2016,24/11/2018,1,Ongoing
+26,R25,A521D6,28.223,85.62131,5171,GeoPrecision,Lower Yala Ridge,University of Zurich,20/10/2016,24/11/2018,1,Ongoing
+27,PF11,SN2111,28.21603,85.59799,4746,UTL,Tserko RI Rock glacier,ICIMOD,1/11/2013,7/12/2020,1,Ongoing
+28,PF12,SN2142,28.21544,85.59641,4700,UTL,Tserko RI Rock glacier,ICIMOD,1/11/2013,7/12/2020,1,Ongoing
+29,PF13,SN2543,28.21621,85.59397,4640,UTL,Tserko RI Rock glacier,ICIMOD,1/11/2013,7/12/2020,1,Ongoing
+30,PF14,SN2081,28.21335,85.59346,4550,UTL,Tserko RI Rock glacier,ICIMOD,1/11/2013,11/17/2019,1,Ongoing
+31,PF1(iButton) ,,28.2154,85.60105,4890,iButton,Tserko Ri,ICIMOD,1/11/2013,14/12/2014,3,Stopped
+32,PF2(iButton) ,,28.212683,85.600317,4974,iButton,Tserko Ri,ICIMOD,1/11/2013,14/12/2014,3,Stopped
+33,PF3(iButton) ,,28.2127,85.6008,4969,iButton,Tserko Ri,ICIMOD,NO Data,NO Data,NO Data,Stopped
+34,PF4(iButton) ,,28.2134,85.601417,4956,iButton,Tserko Ri,ICIMOD,1/11/2013,4/3/2015,3,Stopped
+35,PF5(iButton) ,,28.214267,85.602467,4922,iButton,Tserko Ri,ICIMOD,1/11/2013,4/3/2015,3,Stopped
+36,PF6(iButton) ,,28.21365,85.602767,4931,iButton,Tserko Ri,ICIMOD,NO Data,NO Data,NO Data,Stopped
+37,PF7(iButton) ,,28.21435,85.602033,4926,iButton,Tserko Ri,ICIMOD,1/11/2013,4/3/2015,3,Stopped
+38,PF8(iButton) ,,28.215583,85.60055,4872,iButton,Tserko Ri,ICIMOD,1/11/2013,4/3/2015,3,Stopped
+39,PF9(iButton) ,,28.216717,85.601133,4862,iButton,Tserko Ri,ICIMOD,1/11/2013,14/12/2014,3,Stopped
+40,PF10(iButton) ,,28.21645,85.599233,4792,iButton,Tserko Ri,ICIMOD,1/11/2013,14/12/2014,3,Stopped
